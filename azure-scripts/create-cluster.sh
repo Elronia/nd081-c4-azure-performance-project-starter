@@ -2,7 +2,9 @@
 
 # Variables
 resourceGroup="acdnd-c4-project"
-clusterName="udacity-cluster"
+clusterName="myproject4akscluster"
+region="eastus"
+myAcrName="myacrproject4"
 
 # Install aks cli
 echo "Installing AKS CLI"
